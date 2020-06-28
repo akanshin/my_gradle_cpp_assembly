@@ -1,0 +1,4 @@
+rootProject.name = 'my_gradle_cpp_assembly'
+
+include 'src:myapp'
+include 'src:mylib'
